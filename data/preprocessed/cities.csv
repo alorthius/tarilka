@@ -873,7 +873,7 @@ Lenina,"{""__type"":""GeoPoint"",""latitude"":48.42944,""longitude"":39.14556}",
 Lanivtsi,"{""__type"":""GeoPoint"",""latitude"":49.86328,""longitude"":26.09082}",8357,49.86328,26.09082,Ternopilska
 Kuteynykove,"{""__type"":""GeoPoint"",""latitude"":47.81227,""longitude"":38.28822}",2076,47.81227,38.28822,Donetska
 Kuznetsovs’k,"{""__type"":""GeoPoint"",""latitude"":51.68333,""longitude"":25.86667}",40000,51.68333,25.86667,Rivnenska
-Kyiv,"{""__type"":""GeoPoint"",""latitude"":50.45466,""longitude"":30.5238}",2797553,Kyivska,30.5238,
+Kyiv,"{""__type"":""GeoPoint"",""latitude"":50.45466,""longitude"":30.5238}",2797553,50.45466,30.5238,
 Kvasy,"{""__type"":""GeoPoint"",""latitude"":48.14973,""longitude"":24.27995}",1200,48.14973,24.27995,Zakarpatska
 Kuty,"{""__type"":""GeoPoint"",""latitude"":48.25868,""longitude"":25.17946}",4160,48.25868,25.17946,Ivano-Frankivska
 Kuybysheve,"{""__type"":""GeoPoint"",""latitude"":47.358,""longitude"":36.64908}",7832,47.358,36.64908,Zaporizka
